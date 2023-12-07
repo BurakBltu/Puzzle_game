@@ -560,6 +560,7 @@ namespace frm_puzzle
                 MessageBox.Show("Tebrikler, oyunu kazandýnýz!");
             }
         }
+        //burak
         private void btn_Duraklat_Click(object sender, EventArgs e)
         {
             timer1.Enabled = false;
